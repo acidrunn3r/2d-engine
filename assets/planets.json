@@ -1,19 +1,19 @@
 {
   "Planets": [
     {
-      "x": 1050,
+      "x": 0,
       "y": 540,
-      "radius": 50,
-      "mass": 400000,
-      "velocity": [0, 0],
+      "radius": 11,
+      "mass": 40,
+      "velocity": [1000, 20],
       "color": [28, 100, 255]
     },
     {
       "x": 600,
-      "y": 400,
+      "y": 200,
       "radius": 20,
-      "mass": 200,
-      "velocity": [50, -50],
+      "mass": 2000,
+      "velocity": [50, -20],
       "color": [200, 200, 200]
     }
 
